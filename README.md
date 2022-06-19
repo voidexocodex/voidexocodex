@@ -6,8 +6,9 @@
 - 🌱 And as of June 18, 2021, I'm using The Odin Project as my clear starting point and my roadmap to Web Development.
 - I truly believe that The Odin Project will provide me the research materials that will guide me towards my goal and pass through the infamous "Cliff of Confusion" that I previously fell off of a couple months ago.
 - And hopefully later on, I will soon be able to apply my dormant knowledge of my programming experience into my projects for my portfolio.
+- My goal is to sign a contract with a company by the end of 2023. This goal will give me lots of time to focus on my creativity and build my projects without stressing myself.
 - 💞️ I’m willing to collaborate on any Web Development projects provided by those that I'll be able to gain experience from, regardless of the challenges it provides.
-- 📫 You can reach me through Discord @voidexocodex#4882
+- 📫 You can reach me through Discord @voidexocodex#4882. More links will be provided later on.
 
 <!---
 voidexocodex/voidexocodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
